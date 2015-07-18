@@ -1,7 +1,7 @@
 # Personal Finance Manager
 
 ## Introduction
-PFM is an intuitive web app for iPhone/Chrome browser users that provides various vizualizations of spending habbits. It is built using [iWebkit][], [Google Vizualization][] for front-end. MySQL and PHP are server side components.
+PFM is an intuitive web app for iPhone/Chrome browser users that provides various vizualizations to understand spending patterns. It is built using [iWebkit][], [Google Vizualization][] for front-end. MySQL and PHP are server side components.
   [iWebKit]: http://snippetspace.com/portfolio/iwebkit/
   [Google Vizualization]: https://developers.google.com/chart/interactive/docs/reference
 
@@ -31,4 +31,6 @@ PFM is an intuitive web app for iPhone/Chrome browser users that provides variou
 * Google Vizualization
 
 # Future Work
-Build a supervised learning model for automatic categorization of expense category and sub-category
+* Build a supervised learning model for automatic categorization of expense category and sub-category
+* Budget limits
+* Tool to import transactions
